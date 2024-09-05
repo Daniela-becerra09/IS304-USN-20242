@@ -1,4 +1,4 @@
-class CuentaBancaria:
+ class CuentaBancaria:
     def __init__(self, saldo_inicial):
         self.saldo = saldo_inicial
     
